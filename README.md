@@ -17,7 +17,7 @@ The youtube.html file includes the basic structure for the YouTube clone, defini
 The styles/ folder contains CSS files that provide the visual design and layout for the YouTube clone. It includes styles for responsive design and layout adjustments.
 
 <h3>Usage</h3>
-<b>Clone the repository:</b>git clone https://github.com/your-username/YouTube-Clone.git<br>
+<b>Clone the repository:</b>git clone https://github.com/aditya-m-s/youtube_clone.git<br>
 Open youtube.html in your web browser to view the YouTube clone.<br>
 
 contributing<br>
